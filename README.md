@@ -1,5 +1,12 @@
-# Garbage Classification with ResNet-18 and Pruning & Quantization
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue.svg?style=flat&logo=python&logoColor=white) [![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/dmedhi/garbage-image-classification-detection)
+<div align="center">
+<h1>
+  Garbage Classification with ResNet-18 and Pruning & Quantization
+</h1>
+  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue.svg?style=flat&logo=python&logoColor=white) [![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/dmedhi/garbage-image-classification-detection) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/d1pankarmedhi/mininet18/blob/main/notebook/resnet18_garbage_classification.ipynb)
+  
+</div>
+
 
 
 
